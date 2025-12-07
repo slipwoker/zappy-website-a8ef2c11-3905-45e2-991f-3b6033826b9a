@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eitan-a8ef2c11.zappy5.app/sitemap.xml
